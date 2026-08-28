@@ -1,0 +1,5 @@
+# 蜗牛同步修改｜版本徽标配置（由「版本标签」功能自动维护）
+# enabled: false 可单独关闭本项目的版本徽标
+enabled: true
+target: index.html    # 版本徽标注入的主页文件（相对项目根目录）
+position: top-left
